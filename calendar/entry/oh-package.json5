@@ -1,0 +1,14 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+//    "chinese-lunar": "^0.1.4",
+//   "js-calendar-converter": "^0.0.6",
+//    "lunisolar": "^2.3.0"
+  }
+}
+
